@@ -6,7 +6,7 @@ Ce dépôt contient le compte rendu de notre cours de Bases de Données Avancée
 
 ## Répertoires du Projet
 
-- **rapport/** : contient le compte rendu du projet, incluant les documents de présentation, les analyses de résultats, et les conclusions.
+- **rapport/** : contient le compte rendu du projet, les analyses de résultats, et les conclusions.
 - **script/** : contient les scripts Python pour les opérations sur Redis et MongoDB.
   - `redis.py` : script pour les manipulations de données sur Redis.
   - `mongo.py` : script pour les manipulations de données sur MongoDB.
